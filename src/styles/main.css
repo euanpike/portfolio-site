@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.threeJS {
+    width: 100vw;
+    height: 100vh;
+}
+
+#info {
+	position: absolute;
+	top: 10px;
+	width: 100%;
+    padding-top: 10rem;
+	text-align: center;
+	z-index: 100;
+	display:block;
+}

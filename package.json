@@ -15,8 +15,17 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@react-three/fiber": "^7.0.24",
     "gatsby": "^4.4.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "three": "^0.136.0",
+    "typeit-react": "^2.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.1",
+    "gatsby-plugin-postcss": "^5.4.0",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.8"
   }
 }
