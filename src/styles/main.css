@@ -9,10 +9,14 @@
 
 #info {
 	position: absolute;
-	top: 10px;
+	top: 10rem;
 	width: 100%;
     padding-top: 10rem;
-	text-align: center;
+	left: 5rem;
 	z-index: 100;
 	display:block;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
 }
